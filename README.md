@@ -16,6 +16,8 @@
 ```
 > Github inspired admin theme for PyroCMS
 
+![](https://github.com/websemantics/github-skin/raw/master/resources/img/github.png)
+
 ## Install
 
 1- Use `composer ` to install,
